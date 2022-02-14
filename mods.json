@@ -1,0 +1,451 @@
+{
+    "Empty":{
+        "recipe": null,
+        "rewards": null,
+        "location": null
+    },
+    "Toxic": {
+        "recipe": null,
+        "rewards": null,
+        "location": null
+    },
+    "Chaosweaver": {
+        "recipe": null,
+        "rewards": null,
+        "location": null
+    },
+    "Frostweaver": {
+        "recipe": null,
+        "rewards": null,
+        "location": null
+    },
+    "Permafrost": {
+        "recipe": null,
+        "rewards": null,
+        "location": null
+    },
+    "Hasted": {
+        "recipe": null,
+        "rewards": null,
+        "location": null
+    },
+    "Deadeye": {
+        "recipe": null,
+        "rewards": null,
+        "location": null
+    },
+    "Bombardier": {
+        "recipe": null,
+        "rewards": null,
+        "location": null
+    },
+    "Flameweaver": {
+        "recipe": null,
+        "rewards": null,
+        "location": null
+    },
+    "Incendiary": {
+        "recipe": null,
+        "rewards": null,
+        "location": null
+    },
+    "Arcane Buffer": {
+        "recipe": null,
+        "rewards": null,
+        "location": null
+    },
+    "Echoist": {
+        "recipe": null,
+        "rewards": null,
+        "location": null
+    },
+    "Stormweaver": {
+        "recipe": null,
+        "rewards": null,
+        "location": null
+    },
+    "Dynamo": {
+        "recipe": null,
+        "rewards": null,
+        "location": null
+    },
+    "Bonebreaker": {
+        "recipe": null,
+        "rewards": null,
+        "location": null
+    },
+    "Bloodletter": {
+        "recipe": null,
+        "rewards": null,
+        "location": null
+    },
+    "Steel-infused": {
+        "recipe": null,
+        "rewards": null,
+        "location": null
+    },
+    "Gargantuan": {
+        "recipe": null,
+        "rewards": null,
+        "location": null
+    },
+    "Berserker": {
+        "recipe": null,
+        "rewards": null,
+        "location": null
+    },
+    "Sentinel": {
+        "recipe": null,
+        "rewards": null,
+        "location": null
+    },
+    "Juggernaut": {
+        "recipe": null,
+        "rewards": null,
+        "location": null
+    },
+    "Vampiric": {
+        "recipe": null,
+        "rewards": null,
+        "location": null
+    },
+    "Overcharged": {
+        "recipe": null,
+        "rewards": null,
+        "location": null
+    },
+    "Soul Conduit": {
+        "recipe": null,
+        "rewards": null,
+        "location": null
+    },
+    "Opulent": {
+        "recipe": null,
+        "rewards": null,
+        "location": null
+    },
+    "Malediction": {
+        "recipe": null,
+        "rewards": null,
+        "location": null
+    },
+    "Consecrator": {
+        "recipe": null,
+        "rewards": null,
+        "location": null
+    },
+    "Frenzied": {
+        "recipe": null,
+        "rewards": null,
+        "location": null
+    },
+    "Heralding Minions": {
+        "recipe": [
+            "Dynamo",
+            "Arcane Buffer"
+        ],
+        "rewards": null,
+        "location": null
+    },
+    "Empowering Minions": {
+        "recipe": [
+            "Necromancer",
+            "Executioner",
+            "Gargantuan"
+        ],
+        "rewards": null,
+        "location": null
+    },
+    "Assassin": {
+        "recipe": [
+            "Deadeye",
+            "Vampiric"
+        ],
+        "rewards": null,
+        "location": null
+    },
+    "Trickster": {
+        "recipe": [
+            "Overcharged",
+            "Assassin",
+            "Echoist"
+        ],
+        "rewards": null,
+        "location": null
+    },
+    "Necromancer": {
+        "recipe": [
+            "Bombardier",
+            "Overcharged"
+        ],
+        "rewards": null,
+        "location": null
+    },
+    "Rejuvenating": {
+        "recipe": [
+            "Gargantuan",
+            "Vampiric"
+        ],
+        "rewards": null,
+        "location": null
+    },
+    "Executioner": {
+        "recipe": [
+            "Frenzied",
+            "Berserker"
+        ],
+        "rewards": null,
+        "location": null
+    },
+    "Hexer": {
+        "recipe": [
+            "Chaosweaver",
+            "Echoist"
+        ],
+        "rewards": null,
+        "location": null
+    },
+    "Drought Bringer": {
+        "recipe": [
+            "Malediction",
+            "Deadeye"
+        ],
+        "rewards": null,
+        "location": null
+    },
+    "Entangler": {
+        "recipe": [
+            "Toxic",
+            "Bloodletter"
+        ],
+        "rewards": null,
+        "location": null
+    },
+    "Temporal Bubble": {
+        "recipe": [
+            "Juggernaut",
+            "Hexer",
+            "Arcane Buffer"
+        ],
+        "rewards": null,
+        "location": null
+    },
+    "Treant Horde": {
+        "recipe": [
+            "Toxic",
+            "Sentinel",
+            "Steel-infused"
+        ],
+        "rewards": null,
+        "location": null
+    },
+    "Frost Strider": {
+        "recipe": [
+            "Frostweaver",
+            "Hasted"
+        ],
+        "rewards": null,
+        "location": null
+    },
+    "Ice Prison": {
+        "recipe": [
+            "Permafrost",
+            "Sentinel"
+        ],
+        "rewards": null,
+        "location": null
+    },
+    "Soul Eater": {
+        "recipe": [
+            "Soul Conduit",
+            "Necromancer",
+            "Gargantuan"
+        ],
+        "rewards": null,
+        "location": null
+    },
+    "Flame Strider": {
+        "recipe": [
+            "Flameweaver",
+            "Hasted"
+        ],
+        "rewards": null,
+        "location": null
+    },
+    "Corpse Detonator": {
+        "recipe": [
+            "Necromancer",
+            "Incendiary"
+        ],
+        "rewards": null,
+        "location": null
+    },
+    "Evocationist": {
+        "recipe": [
+            "Flameweaver",
+            "Frostweaver",
+            "Stormweaver"
+        ],
+        "rewards": null,
+        "location": null
+    },
+    "Magma Barrier": {
+        "recipe": [
+            "Incendiary",
+            "Bonebreaker"
+        ],
+        "rewards": null,
+        "location": null
+    },
+    "Mirror Image": {
+        "recipe": [
+            "Echoist",
+            "Soul Conduit"
+        ],
+        "rewards": null,
+        "location": null
+    },
+    "Storm Strider": {
+        "recipe": [
+            "Stormweaver",
+            "Hasted"
+        ],
+        "rewards": null,
+        "location": null
+    },
+    "Mana Siphoner": {
+        "recipe": [
+            "Consecrator",
+            "Dynamo"
+        ],
+        "rewards": null,
+        "location": null
+    },
+    "Corrupter": {
+        "recipe": [
+            "Bloodletter",
+            "Chaosweaver"
+        ],
+        "rewards": null,
+        "location": null
+    },
+    "Invulnerable": {
+        "recipe": [
+            "Sentinel",
+            "Juggernaut",
+            "Consecrator"
+        ],
+        "rewards": null,
+        "location": null
+    },
+    "Crystal-skinned": {
+        "recipe": [
+            "Permafrost",
+            "Rejuvenating",
+            "Berserker"
+        ],
+        "rewards": null,
+        "location": null
+    },
+    "Empowered Elements": {
+        "recipe": [
+            "Evocationist",
+            "Steel-infused",
+            "Chaosweaver"
+        ],
+        "rewards": null,
+        "location": null
+    },
+    "Effigy": {
+        "recipe": [
+            "Effigy",
+            "Malediction",
+            "Corrupter"
+        ],
+        "rewards": null,
+        "location": null
+    },
+    "Lunaris-touched": {
+        "recipe": [
+            "Invulnerable",
+            "Frost Strider",
+            "Empowering Minions"
+        ],
+        "rewards": null,
+        "location": null
+    },
+    "Solaris-touched": {
+        "recipe": [
+            "Invulnerable",
+            "Magma Barrier",
+            "Empowering Minions"
+        ],
+        "rewards": null,
+        "location": null
+    },
+    "Arakaali-touched": {
+        "recipe": [
+            "Corpse Detonator",
+            "Entangler",
+            "Assassin"
+        ],
+        "rewards": null,
+        "location": null
+    },
+    "Brine King-touched": {
+        "recipe": [
+            "Ice Prison",
+            "Storm Strider",
+            "Heralding Minions"
+        ],
+        "rewards": null,
+        "location": null
+    },
+    "Tukohama-touched": {
+        "recipe": [
+            "Bonebreaker",
+            "Executioner",
+            "Magma Barrier"
+        ],
+        "rewards": null,
+        "location": null
+    },
+    "Abberath-touched": {
+        "recipe": [
+            "Flame Strider",
+            "Frenzied",
+            "Rejuvenating"
+        ],
+        "rewards": null,
+        "location": null
+    },
+    "Shakari-touched": {
+        "recipe": [
+            "Entangler",
+            "Soul Eater",
+            "Drought Bringer"
+        ],
+        "rewards": null,
+        "location": null
+    },
+    "Innocence-touched": {
+        "recipe": [
+            "Lunaris-touched",
+            "Solaris-touched",
+            "Mirror Image",
+            "Mana Siphoner"
+        ],
+        "rewards": null,
+        "location": null
+    },
+    "Kitava-touched": {
+        "recipe": [
+            "Tukohama-touched",
+            "Abberath-touched",
+            "Corrupter",
+            "Corpse Detonator"
+        ],
+        "rewards": null,
+        "location": null
+    }
+}
